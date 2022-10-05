@@ -1,8 +1,5 @@
 import React from "react";
 import { UilSearch, UilLocationPoint } from "@iconscout/react-unicons";
-import { hover } from "@testing-library/user-event/dist/hover";
-
-const hoverEffect = ``;
 
 const Inputs = () => {
   return (
